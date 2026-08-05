@@ -4,6 +4,8 @@
 
 I design, build, and deploy production-ready AI systems — voice agents, automated business workflows, AI web applications, and UI prototypes.
 
+🌐 **Portfolio Website:** [ali-web.lovable.app](https://ali-web.lovable.app)
+
 - 🔭 **Currently Building:** Enterprise AI Agents & End-to-End Workflow Automations
 - 🎓 **Education:** Computer Engineering Student at UET Lahore
 - 💼 **Freelancing:** Available for projects on [Upwork](https://www.upwork.com/freelancers/~017006c6eba7d6cdbc) & Direct Contracts
@@ -12,6 +14,7 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
 
 ### 🌐 Connect With Me
 
+[<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" />](https://ali-web.lovable.app)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ali-hassan-6814803a8/)
 [<img src="https://img.shields.io/badge/Upwork-600014?style=for-the-badge&logo=upwork&logoColor=white" />](https://www.upwork.com/freelancers/~017006c6eba7d6cdbc)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:haiderali796959@gmail.com)
