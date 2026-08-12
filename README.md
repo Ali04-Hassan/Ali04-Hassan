@@ -24,12 +24,12 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-gamma-eight-68.vercel.app/api?username=Ali04-Hassan&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats-gamma-eight-68.vercel.app/api/top-langs/?username=Ali04-Hassan&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats-gamma-eight-68.vercel.app/api?username=Ali04-Hassan&show_icons=true&theme=radical&cache_seconds=0" height="165" />
+  <img src="https://github-readme-stats-gamma-eight-68.vercel.app/api/top-langs/?username=Ali04-Hassan&layout=compact&theme=radical&cache_seconds=0" height="165" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Ali04-Hassan&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=Ali04-Hassan&theme=radical&cache_seconds=0" />
 </p>
 
 ---
