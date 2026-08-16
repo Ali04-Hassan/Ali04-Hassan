@@ -4,7 +4,7 @@
 
 I design, build, and deploy production-ready AI systems — voice agents, automated business workflows, AI web applications, and UI prototypes. Specialized in bridging generative AI models with real-world enterprise architectures, I create self-operating systems using n8n, vector databases, and custom REST API integrations to optimize business operations end-to-end.
 
-🌐 **Portfolio Website:** [ali-web.lovable.app](https://ali-web.lovable.app)
+🌐 **Portfolio Website:** https://www.alihassan-builds.me/
 
 - 🔭 **Currently Building:** Enterprise AI Agents & End-to-End Workflow Automations
 - 🎓 **Education:** Computer Engineering Student at UET Lahore
