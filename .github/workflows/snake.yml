@@ -2,7 +2,7 @@ name: Generate Snake Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Har 12 ghante baad auto-run hoga
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
           github_user_name: Ali04-Hassan
           outputs: |
             dist/github-user-contribution-grid-snake.svg
-            dist/github-user-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-user-contribution-grid-snake-dark.svg?color_snake=#7000FF&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
