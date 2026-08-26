@@ -16,7 +16,7 @@ jobs:
           github_user_name: Ali04-Hassan
           outputs: |
             dist/github-user-contribution-grid-snake.svg
-            dist/github-user-contribution-grid-snake-dark.svg?color_snake=#7000FF&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-user-contribution-grid-snake-dark.svg?color_snake=#10B981&color_dots=#f3f4f6,#a7f3d0,#34d399,#059669,#047857
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
