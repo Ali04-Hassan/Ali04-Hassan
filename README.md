@@ -1,4 +1,4 @@
-<!-- 1. Top Dynamic Typing Text Animation -->
+<!-- 1. Top Typing SVG Animation -->
 <h2 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vcenter=true&width=950&lines=AI+Automation+Developer;n8n+Workflows%2C+AI+Voice+Agents+(Vapi%2FElevenLabs)+%26+RAG+Systems;Computer+Engineering+%40+UET+Lahore;Helping+businesses+automate+support%2C+sales+%26+operations" alt="Ali Hassan Title Animation" />
@@ -7,7 +7,7 @@
 
 <!-- 2. Top Professional Banner Picture -->
 <p align="center">
-  <img width="100%" alt="Ali Hassan Banner" src="https://github.com/user-attachments/assets/8addcaec-2ad7-4c39-ae14-6f455327dd13" />
+  <img width="100%" alt="Ali Hassan AI Automation Banner" src="https://github.com/user-attachments/assets/8addcaec-2ad7-4c39-ae14-6f455327dd13" />
 </p>
 
 # Hi, I'm Ali Hassan 👋
@@ -47,7 +47,7 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
 
 ---
 
-<!-- Side-by-Side Learning & Collaboration Section with GIF -->
+<!-- Side-by-Side Section with Working Developer GIF Animation -->
 <table>
   <tr>
     <td width="60%" valign="top">
@@ -67,7 +67,7 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZudnR6Z282Nnk1Ym1wZWV5dnhvYWVpa3p3Z3ltNnhwZTZjNnV4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4PP93825/giphy.gif" width="100%" alt="Developer Coding GIF" />
+      <img src="https://raw.githubusercontent.com/Ali04-Hassan/hamnashahiddev/main/dev.gif" width="100%" alt="Developer Coding GIF" />
     </td>
   </tr>
 </table>
@@ -140,8 +140,9 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
 
 ---
 
+<!-- 4. Contribution Activity Graph (Working Snake Animation CDN) -->
 ### 🐍 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://platane.github.io/snk/github-user-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph Animation" />
+  <img src="https://platane.github.io/snk/github-user-contribution-grid-snake-dark.svg" alt="Ali Hassan GitHub Contribution Snake Graph" />
 </p>
