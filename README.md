@@ -1,13 +1,3 @@
-<h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vcenter=true&width=950&lines=AI+Automation+Developer;n8n+Workflows%2C+AI+Voice+Agents+(Vapi%2FElevenLabs)+%26+RAG+Systems;Computer+Engineering+%40+UET+Lahore;Helping+businesses+automate+support%2C+sales+%26+operations" alt="Ali Hassan Title Animation" />
-  </a>
-</h2>
-
-<p align="center">
-  <img width="100%" alt="Ali Hassan AI Automation Expert Banner" src="https://github.com/user-attachments/assets/8addcaec-2ad7-4c39-ae14-6f455327dd13" />
-</p>
-
 # Hi, I'm Ali Hassan 👋
 
 **AI Automation Developer | AI Voice Agents & Workflows | Computer Engineering @ UET Lahore**
@@ -29,7 +19,6 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
 [<img src="https://img.shields.io/badge/Upwork-600014?style=for-the-badge&logo=upwork&logoColor=white" />](https://www.upwork.com/freelancers/~017006c6eba7d6cdbc)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:haiderali796959@gmail.com)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/share/1DK2w6JH8S/)
-
 ---
 
 ### 📊 GitHub Stats
@@ -42,6 +31,19 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
 <p align="left">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ali04-Hassan&theme=radical" />
 </p>
+
+---
+
+### 📚 Currently Learning
+- Advanced Agentic AI Workflows & Multi-Agent Orchestration
+- Cloud Deployment with Docker + Render
+- Scaling RAG Systems for Enterprise Use Cases
+
+### 🤝 Open to Collaborate On
+- 🎙️ AI Voice Agent projects (Vapi, ElevenLabs)
+- 🔄 n8n Workflow Automation builds
+- 🧠 RAG / Vector Search systems
+- 🌐 Full-stack AI-powered web apps
 
 ---
 
@@ -108,11 +110,3 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
 
 * **Upwork Rising Talent Badge**
   * Top-performing freelancer recognition in AI Automation & Workflow Integration.
-
----
-
-### 🐍 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ali04-Hassan/Ali04-Hassan/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph Animation" />
-</p>
