@@ -1,13 +1,11 @@
-<!-- 1. Top Dynamic Typing Text Animation -->
 <h2 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vcenter=true&width=950&lines=AI+Automation+Developer;n8n+Workflows%2C+AI+Voice+Agents+(Vapi%2FElevenLabs)+%26+RAG+Systems;Computer+Engineering+%40+UET+Lahore;Helping+businesses+automate+support%2C+sales+%26+operations" alt="Ali Hassan Title Animation" />
   </a>
 </h2>
 
-<!-- 2. Top Professional Banner Picture (Drop your image directly on the line below) -->
 <p align="center">
-<img width="1619" height="972" alt="1000038283" src="https://github.com/user-attachments/assets/8addcaec-2ad7-4c39-ae14-6f455327dd13" />
+  <img width="100%" alt="Ali Hassan AI Automation Expert Banner" src="https://github.com/user-attachments/assets/8addcaec-2ad7-4c39-ae14-6f455327dd13" />
 </p>
 
 # Hi, I'm Ali Hassan 👋
@@ -43,42 +41,6 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
 
 <p align="left">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ali04-Hassan&theme=radical" />
-</p>
-
----
-
-<!-- Side-by-Side Section with Working Coder GIF Illustration -->
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>📚 Currently Learning</h3>
-      <ul>
-        <li>Advanced Agentic AI Workflows & Multi-Agent Orchestration</li>
-        <li>Cloud Deployment with Docker + Render</li>
-        <li>Scaling RAG Systems for Enterprise Use Cases</li>
-      </ul>
-      <br />
-      <h3>🤝 Open to Collaborate On</h3>
-      <ul>
-        <li>🎙️ AI Voice Agent projects (Vapi, ElevenLabs)</li>
-        <li>🔄 n8n Workflow Automation builds</li>
-        <li>🧠 RAG / Vector Search systems</li>
-        <li>🌐 Full-stack AI-powered web apps</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PP93825/giphy.gif" width="100%" alt="Developer Coding Illustration" />
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- Working Live Contribution Activity Graph -->
-### 🐍 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00B4D8/Ali04-Hassan" width="100%" alt="Ali Hassan GitHub Contributions Graph" />
 </p>
 
 ---
@@ -149,7 +111,6 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
 
 ---
 
-<!-- 4. Contribution Grid Snake Animation -->
 ### 🐍 Contribution Activity Graph
 
 <p align="center">
