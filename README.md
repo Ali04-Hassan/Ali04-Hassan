@@ -144,5 +144,5 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
 ### 🐍 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://platane.github.io/snk/github-user-contribution-grid-snake-dark.svg" alt="Ali Hassan GitHub Contribution Snake Graph" />
+  <img src="https://raw.githubusercontent.com/Ali04-Hassan/Ali04-Hassan/output/github-user-contribution-grid-snake-dark.svg" alt="Ali Hassan GitHub Contribution Snake Graph" />
 </p>
