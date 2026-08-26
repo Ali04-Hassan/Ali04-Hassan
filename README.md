@@ -140,9 +140,9 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
 
 ---
 
-<!-- 4. Contribution Activity Graph (Working Snake Animation CDN) -->
-### 🐍 Contribution Activity Graph
+<!-- Contribution Activity Graph (Snake Animation) -->
+<h3 align="center">🐍 Contribution Activity Graph</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ali04-Hassan/Ali04-Hassan/output/github-user-contribution-grid-snake-dark.svg" alt="Ali Hassan GitHub Contribution Snake Graph" />
+  <img src="https://raw.githubusercontent.com/Ali04-Hassan/Ali04-Hassan/output/github-user-contribution-grid-snake-dark.svg" alt="Ali Hassan Contribution Snake Graph" />
 </p>
