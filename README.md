@@ -1,13 +1,13 @@
-<!-- Top Dynamic Typing Text Animation -->
+<!-- 1. Top Dynamic Typing Text Animation -->
 <h2 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vcenter=true&width=950&lines=AI+Automation+Developer;n8n+Workflows%2C+AI+Voice+Agents+(Vapi%2FElevenLabs)+%26+RAG+Systems;Computer+Engineering+%40+UET+Lahore;Helping+businesses+automate+support%2C+sales+%26+operations" alt="Ali Hassan Title Animation" />
   </a>
 </h2>
 
-<!-- Professional Banner Picture -->
+<!-- 2. Top Professional Banner Picture (Drop your image directly on the line below) -->
 <p align="center">
-  <img src="![Uploading 1000038283.png…]()" width="100%" alt="Ali Hassan - N8N Automation Expert Banner" />
+<img width="1619" height="972" alt="1000038283" src="https://github.com/user-attachments/assets/8addcaec-2ad7-4c39-ae14-6f455327dd13" />
 </p>
 
 # Hi, I'm Ali Hassan 👋
@@ -47,10 +47,10 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
 
 ---
 
-<!-- Side-by-Side Professional Table Layout -->
+<!-- 3. Side-by-Side Section with Coder Illustration -->
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="35%" valign="top">
       <h3>📚 Currently Learning</h3>
       <ul>
         <li>Advanced Agentic AI Workflows & Multi-Agent Orchestration</li>
@@ -58,7 +58,7 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
         <li>Scaling RAG Systems for Enterprise Use Cases</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="35%" valign="top">
       <h3>🤝 Open to Collaborate On</h3>
       <ul>
         <li>🎙️ AI Voice Agent projects (Vapi, ElevenLabs)</li>
@@ -66,6 +66,9 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
         <li>🧠 RAG / Vector Search systems</li>
         <li>🌐 Full-stack AI-powered web apps</li>
       </ul>
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://cdni.iconscout.com/illustration/premium/thumb/coder-illustration-download-in-svg-png-gif-file-formats--developer-coding-programmer-development-pack-business-illustrations-5743414.png" width="100%" alt="Developer Working Coder Vector" />
     </td>
   </tr>
 </table>
@@ -135,3 +138,12 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
 
 * **Upwork Rising Talent Badge**
   * Top-performing freelancer recognition in AI Automation & Workflow Integration.
+
+---
+
+<!-- 4. Contribution Grid Snake Animation -->
+### 🐍 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ali04-Hassan/Ali04-Hassan/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph Animation" />
+</p>
