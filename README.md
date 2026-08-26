@@ -47,18 +47,17 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
 
 ---
 
-<!-- 3. Side-by-Side Section with Coder Illustration -->
+<!-- Side-by-Side Section with Working Coder GIF Illustration -->
 <table>
   <tr>
-    <td width="35%" valign="top">
+    <td width="60%" valign="top">
       <h3>📚 Currently Learning</h3>
       <ul>
         <li>Advanced Agentic AI Workflows & Multi-Agent Orchestration</li>
         <li>Cloud Deployment with Docker + Render</li>
         <li>Scaling RAG Systems for Enterprise Use Cases</li>
       </ul>
-    </td>
-    <td width="35%" valign="top">
+      <br />
       <h3>🤝 Open to Collaborate On</h3>
       <ul>
         <li>🎙️ AI Voice Agent projects (Vapi, ElevenLabs)</li>
@@ -67,11 +66,20 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
         <li>🌐 Full-stack AI-powered web apps</li>
       </ul>
     </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/coder-illustration-download-in-svg-png-gif-file-formats--developer-coding-programmer-development-pack-business-illustrations-5743414.png" width="100%" alt="Developer Working Coder Vector" />
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUGGAC3P4PP93825/giphy.gif" width="100%" alt="Developer Coding Illustration" />
     </td>
   </tr>
 </table>
+
+---
+
+<!-- Working Live Contribution Activity Graph -->
+### 🐍 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00B4D8/Ali04-Hassan" width="100%" alt="Ali Hassan GitHub Contributions Graph" />
+</p>
 
 ---
 
