@@ -25,7 +25,7 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
 ---
 
 ### 🌐 Connect With Me
-
+[![DevConnect](https://devconnectplatform.com/api/badge/aliram3971)](https://devconnectplatform.com/u/aliram3971?ref=badge)
 [<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" />](https://ali-web.lovable.app)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ali-hassan-6814803a8/)
 [<img src="https://img.shields.io/badge/Upwork-600014?style=for-the-badge&logo=upwork&logoColor=white" />](https://www.upwork.com/freelancers/~017006c6eba7d6cdbc)
