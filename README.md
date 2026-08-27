@@ -91,12 +91,12 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
 
 ---
 
-<!-- Featured Repositories Section -->
+
 <h3 align="center">🚀 Featured Repositories & Workflows</h3>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="65%" valign="middle">
       <h4>🤖 <a href="https://github.com/Ali04-Hassan/ai-automation-portfolio">ai-automation-portfolio</a></h4>
       <p>Production-ready AI Automation & Systems Engineering Portfolio featuring n8n workflows, custom AI Voice Agents, RAG pipelines, and full-stack integrations.</p>
       <p>
@@ -105,7 +105,13 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFtNHhmcHE0M3V4ejVwenoyd3I2MzZxOGltZHIyazM0MTFpaHNzcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EeZ6mLsRRik8cgnh3D/giphy.gif" width="100%" alt="AI Bot GIF" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="65%" valign="middle">
       <h4>⚡ <a href="https://github.com/Ali04-Hassan/Ai-automation-and-agents">Ai-automation-and-agents</a></h4>
       <p>Production-ready AI agents, n8n automation workflows, and Python backend scripts for business automation and lead qualification.</p>
       <p>
@@ -114,9 +120,13 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
       </p>
     </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHoyOGR5ZTd3YXdvZGc5bGNodGVpbjZqbmRzaHVqcnplNms2bXpnaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EB18MllnVP4cwSCcas/giphy.gif" width="100%" alt="Automation Workflow GIF" />
+    </td>
   </tr>
+
   <tr>
-    <td width="50%" valign="top">
+    <td width="65%" valign="middle">
       <h4>🎓 <a href="https://github.com/Ali04-Hassan/EduCore">EduCore</a></h4>
       <p>Full-stack modern academic platform built for managing learning resources, student portals, and backend data flows.</p>
       <p>
@@ -125,7 +135,13 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="Workspace GIF" />
+    </td>
+  </tr>
+
+  <tr>
+    <td width="65%" valign="middle">
       <h4>📊 <a href="https://github.com/Ali04-Hassan/Student-Grading-System">Student-Grading-System</a></h4>
       <p>C++ based Student Grading System with an interactive HTML Dashboard for GPA calculation and student record analysis.</p>
       <p>
@@ -134,14 +150,21 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Coding GIF" />
+    </td>
   </tr>
+
   <tr>
-    <td colspan="2" width="100%" valign="top">
+    <td width="65%" valign="middle">
       <h4>✈️ <a href="https://github.com/Ali04-Hassan/PIA-Online-Reservation-System-Project">PIA-Online-Reservation-System-Project</a></h4>
       <p>Flight booking and reservation system concept developed in Python with structured user authentication and backend flow.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUGGAC3P4PP93825/giphy.gif" width="100%" alt="Logic GIF" />
     </td>
   </tr>
 </table>
