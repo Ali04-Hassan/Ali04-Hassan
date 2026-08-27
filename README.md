@@ -91,23 +91,32 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
 
 ---
 
-### 🚀 Featured Projects & Repositories
+<!-- Featured Repositories Visual SVG Cards -->
+<h3 align="center">🚀 Featured Repositories & Workflows</h3>
 
-#### 🧠 [NotesToQuiz](https://github.com/Ali04-Hassan/NotesToQuiz)
-* **Tech:** React, TypeScript, Node.js, AI Integration, Vercel
-* **Description:** AI-powered study platform converting notes into interactive quizzes with automated performance tracking.
+<p align="center">
+  <a href="https://github.com/Ali04-Hassan/ai-automation-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali04-Hassan&repo=ai-automation-portfolio&theme=radical&show_owner=false" alt="AI Automation Portfolio Card" />
+  </a>
+  <a href="https://github.com/Ali04-Hassan/Ai-automation-and-agents">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali04-Hassan&repo=Ai-automation-and-agents&theme=radical&show_owner=false" alt="AI Automation and Agents Card" />
+  </a>
+</p>
 
-#### 📊 [Student Grading System](https://github.com/Ali04-Hassan/Student-Grading-System)
-* **Tech:** C++, HTML5, CSS3, JavaScript
-* **Description:** C++ based grading architecture integrated with an interactive frontend dashboard for student record management.
+<p align="center">
+  <a href="https://github.com/Ali04-Hassan/EduCore">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali04-Hassan&repo=EduCore&theme=radical&show_owner=false" alt="EduCore Card" />
+  </a>
+  <a href="https://github.com/Ali04-Hassan/Student-Grading-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali04-Hassan&repo=Student-Grading-System&theme=radical&show_owner=false" alt="Student Grading System Card" />
+  </a>
+</p>
 
-#### 🤖 [AI Automation & Agents Directory](https://github.com/Ali04-Hassan/Ai-automation-and-agents)
-* **Tech:** n8n, Vapi, ElevenLabs, Gemini AI, Pinecone, Twilio, Green API, Shopify, Airtable
-* **Includes:**
-  * **24/7 AI Voice & Support Agent:** Real-time call handling, Shopify order status, refund processing, and abandoned cart recovery.
-  * **AI Lead Qualification Pipeline:** Automatic prospect scoring via forms, logging into Airtable CRM, and sending SMS/Email follow-ups.
-  * **RAG Knowledge Base System:** Vector search Q&A pipeline built with Pinecone and Gemini AI over custom documents.
-  * **Smart Email & Document Automation:** Automated PDF invoice processing, data extraction, and Gmail draft generation.
+<p align="center">
+  <a href="https://github.com/Ali04-Hassan/PIA-Online-Reservation-System-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali04-Hassan&repo=PIA-Online-Reservation-System-Project&theme=radical&show_owner=false" alt="PIA Online Reservation System Card" />
+  </a>
+</p>
 
 ---
 
