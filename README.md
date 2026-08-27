@@ -91,32 +91,60 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
 
 ---
 
-<!-- Featured Repositories Visual SVG Cards -->
+<!-- Featured Repositories Section -->
 <h3 align="center">🚀 Featured Repositories & Workflows</h3>
 
-<p align="center">
-  <a href="https://github.com/Ali04-Hassan/ai-automation-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali04-Hassan&repo=ai-automation-portfolio&theme=radical&show_owner=false" alt="AI Automation Portfolio Card" />
-  </a>
-  <a href="https://github.com/Ali04-Hassan/Ai-automation-and-agents">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali04-Hassan&repo=Ai-automation-and-agents&theme=radical&show_owner=false" alt="AI Automation and Agents Card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ali04-Hassan/EduCore">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali04-Hassan&repo=EduCore&theme=radical&show_owner=false" alt="EduCore Card" />
-  </a>
-  <a href="https://github.com/Ali04-Hassan/Student-Grading-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali04-Hassan&repo=Student-Grading-System&theme=radical&show_owner=false" alt="Student Grading System Card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ali04-Hassan/PIA-Online-Reservation-System-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ali04-Hassan&repo=PIA-Online-Reservation-System-Project&theme=radical&show_owner=false" alt="PIA Online Reservation System Card" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/Ali04-Hassan/ai-automation-portfolio">ai-automation-portfolio</a></h4>
+      <p>Production-ready AI Automation & Systems Engineering Portfolio featuring n8n workflows, custom AI Voice Agents, RAG pipelines, and full-stack integrations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/Ali04-Hassan/Ai-automation-and-agents">Ai-automation-and-agents</a></h4>
+      <p>Production-ready AI agents, n8n automation workflows, and Python backend scripts for business automation and lead qualification.</p>
+      <p>
+        <img src="https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 <a href="https://github.com/Ali04-Hassan/EduCore">EduCore</a></h4>
+      <p>Full-stack modern academic platform built for managing learning resources, student portals, and backend data flows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 <a href="https://github.com/Ali04-Hassan/Student-Grading-System">Student-Grading-System</a></h4>
+      <p>C++ based Student Grading System with an interactive HTML Dashboard for GPA calculation and student record analysis.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
+      <h4>✈️ <a href="https://github.com/Ali04-Hassan/PIA-Online-Reservation-System-Project">PIA-Online-Reservation-System-Project</a></h4>
+      <p>Flight booking and reservation system concept developed in Python with structured user authentication and backend flow.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
