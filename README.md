@@ -1,7 +1,7 @@
 <!-- 1. Top Typing SVG Animation -->
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vcenter=true&width=950&lines=AI+Automation+Developer;n8n+Workflows%2C+AI+Voice+Agents+(Vapi%2FElevenLabs)+%26+RAG+Systems;Computer+Engineering+%40+UET+Lahore;Helping+businesses+automate+support%2C+sales+%26+operations" alt="Ali Hassan Title Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vcenter=true&width=950&lines=AI+Automation+Engineer;n8n+Workflows%2C+AI+Voice+Agents+(Vapi%2FElevenLabs)+%26+RAG+Systems;Computer+Engineering+%40+UET+Lahore;Helping+businesses+automate+support%2C+sales+%26+operations" alt="Ali Hassan Title Animation" />
   </a>
 </h2>
 
