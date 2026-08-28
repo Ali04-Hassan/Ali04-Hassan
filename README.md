@@ -104,7 +104,6 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
     </td>
-    <td width="35%" align="center" valign="middle">
   
    
   </tr>
@@ -119,7 +118,7 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
       </p>
     </td>
-    <td width="35%" align="center" valign="middle">
+  
     
 
   </tr>
@@ -134,7 +133,7 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
     </td>
-    <td width="35%" align="center" valign="middle">
+
    
 
   </tr>
@@ -149,7 +148,7 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
-    <td width="35%" align="center" valign="middle">
+
 
  
   </tr>
@@ -162,7 +161,7 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
     </td>
-    <td width="35%" align="center" valign="middle">
+
    
 
   </tr>
