@@ -106,7 +106,7 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
     </td>
     <td width="35%" align="center" valign="middle">
   
-    </td>
+   
   </tr>
 
   <tr>
@@ -121,7 +121,7 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
     </td>
     <td width="35%" align="center" valign="middle">
     
-    </td>
+
   </tr>
 
   <tr>
@@ -136,7 +136,7 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
     </td>
     <td width="35%" align="center" valign="middle">
    
-    </td>
+
   </tr>
 
   <tr>
@@ -151,7 +151,7 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
     </td>
     <td width="35%" align="center" valign="middle">
 
-    </td>
+ 
   </tr>
 
   <tr>
@@ -164,7 +164,7 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
     </td>
     <td width="35%" align="center" valign="middle">
    
-    </td>
+
   </tr>
 </table>
 
