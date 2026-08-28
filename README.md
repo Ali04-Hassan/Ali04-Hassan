@@ -7,7 +7,7 @@
 
 <!-- 2. Top Professional Banner Picture -->
 <p align="center">
-  <img width="100%" alt="Ali Hassan AI Automation Banner" src="https://github.com/user-attachments/assets/8addcaec-2ad7-4c39-ae14-6f455327dd13" />
+ <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/897434a4-1805-4a5d-94cd-a25c064329fa" />
 </p>
 
 # Hi, I'm Ali Hassan 👋
