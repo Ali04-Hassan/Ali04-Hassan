@@ -105,7 +105,7 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2dtbXI5OGp4bHdsNTJrY2QxZWg2NWpoaWEzNnBjbnlrb2twYnl4NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h408T6Y5GfmXBKW62l/giphy.gif" width="100%" alt="AI Coding Robot" />
+  
     </td>
   </tr>
 
@@ -120,7 +120,7 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXZnajh0Nmx2bXBpaXZ1eXA3a2U4dWl1Y3Y4MjEzd3E5d2dqOGZ2eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O7x8QN7gMcsAxX8v2z/giphy.gif" width="100%" alt="AI Interface" />
+    
     </td>
   </tr>
 
@@ -135,7 +135,7 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFtNHhmcHE0M3V4ejVwenoyd3I2MzZxOGltZHIyazM0MTFpaHNzcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EeZ6mLsRRik8cgnh3D/giphy.gif" width="100%" alt="AI Bot" />
+   
     </td>
   </tr>
 
@@ -150,7 +150,7 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nzg5ZTBnd3V1cTR6ZW55NnpkNGI4aWVwZGZnNGkxNW1oNDh4aTUyZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/s8UHGqq9xqJmwZZtHn/giphy.gif" width="100%" alt="Developer Typing" />
+
     </td>
   </tr>
 
@@ -163,7 +163,7 @@ I design, build, and deploy production-ready AI systems — voice agents, automa
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHoyOGR5ZTd3YXdvZGc5bGNodGVpbjZqbmRzaHVqcnplNms2bXpnaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EB18MllnVP4cwSCcas/giphy.gif" width="100%" alt="Workflow Automation" />
+   
     </td>
   </tr>
 </table>
