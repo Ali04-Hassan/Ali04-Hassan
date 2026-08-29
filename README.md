@@ -159,11 +159,6 @@ I help businesses eliminate repetitive work, respond faster, and capture more le
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
-    </td>
-  
-   
-  </tr>
-
   <tr>
     <td width="65%" valign="middle">
       <h4>⚡ <a href="https://github.com/Ali04-Hassan/Ai-automation-and-agents">Ai-automation-and-agents</a></h4>
@@ -173,12 +168,6 @@ I help businesses eliminate repetitive work, respond faster, and capture more le
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
       </p>
-    </td>
-  
-    
-
-  </tr>
-
   <tr>
     <td width="65%" valign="middle">
       <h4>🎓 <a href="https://github.com/Ali04-Hassan/EduCore">EduCore</a></h4>
@@ -188,12 +177,6 @@ I help businesses eliminate repetitive work, respond faster, and capture more le
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
-    </td>
-
-   
-
-  </tr>
-
   <tr>
     <td width="65%" valign="middle">
       <h4>📊 <a href="https://github.com/Ali04-Hassan/Student-Grading-System">Student-Grading-System</a></h4>
@@ -203,12 +186,6 @@ I help businesses eliminate repetitive work, respond faster, and capture more le
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-    </td>
-
-
- 
-  </tr>
-
   <tr>
     <td width="65%" valign="middle">
       <h4>✈️ <a href="https://github.com/Ali04-Hassan/PIA-Online-Reservation-System-Project">PIA-Online-Reservation-System-Project</a></h4>
@@ -216,11 +193,6 @@ I help businesses eliminate repetitive work, respond faster, and capture more le
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
-    </td>
-
-   
-
-  </tr>
 </table>
 
 ---
