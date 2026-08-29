@@ -104,23 +104,22 @@ I help businesses eliminate repetitive work, respond faster, and capture more le
 
 ---
 
-<!-- Side-by-Side Section with Working Developer GIF Animation -->
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h3>📚 Currently Learning</h3>
+      <h3>📚 Currently Deepening & Expanding</h3>
       <ul>
-        <li>Advanced Agentic AI Workflows & Multi-Agent Orchestration</li>
-        <li>Cloud Deployment with Docker + Render</li>
-        <li>Scaling RAG Systems for Enterprise Use Cases</li>
+        <li>Advanced Multi-Agent Orchestration & Autonomous Agentic Workflows</li>
+        <li>Enterprise RAG Scaling & Vector Database Optimization (Pinecone)</li>
+        <li>Production Cloud Deployment & Microservices Containerization (Docker)</li>
       </ul>
       <br />
       <h3>🤝 Open to Collaborate On</h3>
       <ul>
-        <li>🎙️ AI Voice Agent projects (Vapi, ElevenLabs)</li>
-        <li>🔄 n8n Workflow Automation builds</li>
-        <li>🧠 RAG / Vector Search systems</li>
-        <li>🌐 Full-stack AI-powered web apps</li>
+        <li>🎙️ Production Voice AI Systems (Vapi, ElevenLabs, Twilio integrations)</li>
+        <li>⚡ End-to-End Business & CRM Automations via n8n & REST APIs</li>
+        <li>🧠 Custom Knowledge Base Retrieval Systems (RAG & LLM Pipelines)</li>
+        <li>🌐 Full-Stack AI Web Applications (React, TypeScript, Supabase, Vercel)</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
