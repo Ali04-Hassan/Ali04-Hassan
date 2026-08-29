@@ -1,26 +1,84 @@
 <!-- 1. Top Typing SVG Animation -->
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vcenter=true&width=950&lines=AI+Automation+Engineer;n8n+Workflows%2C+AI+Voice+Agents+(Vapi%2FElevenLabs)+%26+RAG+Systems;Computer+Engineering+%40+UET+Lahore;Helping+businesses+automate+support%2C+sales+%26+operations" alt="Ali Hassan Title Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00B4D8&center=true&vcenter=true&width=950&lines=AI+Automation+Engineer;AI+Agents+%26+Full-Stack+AI+Developer;n8n%2C+Voice+AI%2C+RAG+%26+API+Integrations;Computer+Engineering+%40+UET+Lahore;Building+AI+Systems+for+Business+Automation" alt="Ali Hassan Title Animation" />
   </a>
 </h2>
 
 <!-- 2. Top Professional Banner Picture -->
 <p align="center">
- <img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/897434a4-1805-4a5d-94cd-a25c064329fa" />
+  <img width="100%" alt="Ali Hassan AI Automation Banner" src="https://github.com/user-attachments/assets/8addcaec-2ad7-4c39-ae14-6f455327dd13" />
+</p>
+
+<!-- 3. DevConnect Live Badge -->
+<p align="left">
+  <a href="https://devconnectplatform.com/u/aliram3971?ref=badge">
+    <img src="https://devconnectplatform.com/api/badge/aliram3971" alt="DevConnect Profile" />
+  </a>
 </p>
 
 # Hi, I'm Ali Hassan 👋
 
-**AI Automation Developer | AI Voice Agents & Workflows | Computer Engineering @ UET Lahore**
+**AI Automation Engineer | AI Agents & Full-Stack AI Developer | Computer Engineering @ UET Lahore**
 
-I design, build, and deploy production-ready AI systems — voice agents, automated business workflows, AI web applications, and UI prototypes. Specialized in bridging generative AI models with real-world enterprise architectures, I create self-operating systems using n8n, vector databases, and custom REST API integrations to optimize business operations end-to-end.
+I help businesses eliminate repetitive work, respond faster, and capture more leads by building production-ready, 24/7 AI-powered automation systems. Specializing in AI agents, workflow orchestration, voice systems, RAG architectures, and full-stack AI web applications, I deliver end-to-end solutions from architecture to production deployment.
 
-🌐 **Portfolio Website:** https://www.alihassan-builds.me/
+🌐 **Portfolio Website:** [alihassan-builds.me](https://www.alihassan-builds.me/)  
+💼 **Freelance Services:** Available for projects on [Upwork](https://www.upwork.com/freelancers/~017006c6eba7d6cdbc) & Direct Contracts  
+📧 **Direct Contact:** [haiderali796959@gmail.com](mailto:haiderali796959@gmail.com)
 
-- 🔭 **Currently Building:** Enterprise AI Agents & End-to-End Workflow Automations
-- 🎓 **Education:** Computer Engineering Student at UET Lahore
-- 💼 **Freelancing:** Available for projects on [Upwork](https://www.upwork.com/freelancers/~017006c6eba7d6cdbc) & Direct Contracts
+---
+
+### 🚀 What I Build
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🎙️ AI Voice Agents</b><br />
+      Vapi & ElevenLabs-powered agents for inbound calls, lead qualification, customer support, data collection, and automated follow-ups.
+    </td>
+    <td width="50%" valign="top">
+      <b>⚙️ AI Automation & Agentic Workflows</b><br />
+      End-to-end business automations using n8n, LLMs, APIs, webhooks, CRMs, databases, and custom third-party integrations.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>📞 Voice + CRM Systems</b><br />
+      Complete call-to-CRM pipelines connecting Vapi, n8n, Twilio, Airtable, and active business operational tools.
+    </td>
+    <td width="50%" valign="top">
+      <b>📊 AI Lead Qualification & CRM Automation</b><br />
+      AI systems that qualify prospects, update CRM records instantly, store data, and trigger instant high-priority notifications.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>💬 AI Customer Support Agents</b><br />
+      AI-powered chat and WhatsApp agents delivering 24/7 support, contextual conversations, and automated customer operations.
+    </td>
+    <td width="50%" valign="top">
+      <b>📚 RAG & Knowledge Base Systems</b><br />
+      Context-aware document retrieval pipelines utilizing Pinecone, Gemini, and vector databases for enterprise documentation.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🧾 AI Document & Invoice Processing</b><br />
+      Automated intake pipelines for extracting, validating, classifying, and structured data storage from invoices and documents.
+    </td>
+    <td width="50%" valign="top">
+      <b>✉️ Email AI Automation</b><br />
+      Automated workflows that classify, summarize, draft, and connect email inboxes directly with backend systems.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
+      <b>🌐 Full-Stack AI Applications</b><br />
+      Complete AI web apps with modern frontends, scalable REST API backends, database models, authentication, and cloud deployment.
+    </td>
+  </tr>
+</table>
 
 ---
 
