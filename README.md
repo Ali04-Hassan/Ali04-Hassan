@@ -88,6 +88,9 @@ I help businesses eliminate repetitive work, respond faster, and capture more le
 [<img src="https://img.shields.io/badge/Upwork-600014?style=for-the-badge&logo=upwork&logoColor=white" />](https://www.upwork.com/freelancers/~017006c6eba7d6cdbc)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:haiderali796959@gmail.com)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/share/1DK2w6JH8S/)
+<a href="https://www.fiverr.com/ali_flow_labs" target="_blank">
+  <img src="https://img.shields.io/badge/FIVERR-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+</a>
 
 ---
 
