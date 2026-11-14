@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/hero.svg?v=3" alt="Ali Hassan - AI Automation Engineer" width="100%"/></p>
+<p align="center"><img src="./assets/hero.svg?v=4" alt="Ali Hassan - AI Automation Engineer" width="100%"/></p>
 
 <p align="center">
   <a href="https://www.alihassan-builds.me/"><img src="https://img.shields.io/badge/Portfolio-247bff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -12,11 +12,11 @@
   <a href="https://devconnectplatform.com/u/aliram3971?ref=badge"><img src="https://devconnectplatform.com/api/badge/aliram3971" alt="DevConnect Profile" /></a>
 </p>
 
-<p align="center"><img src="./assets/about-life.svg?v=3" alt="About" width="100%"/></p>
+<p align="center"><img src="./assets/about-life.svg?v=4" alt="About" width="100%"/></p>
 
-<p align="center"><img src="./assets/services.svg?v=3" alt="What I Build" width="100%"/></p>
+<p align="center"><img src="./assets/services.svg?v=4" alt="What I Build" width="100%"/></p>
 
-<p align="center"><img src="./assets/stack.svg?v=3" alt="Tech stack" width="100%"/></p>
+<p align="center"><img src="./assets/stack.svg?v=4" alt="Tech stack" width="100%"/></p>
 
 ## 📂 Featured Projects
 
@@ -28,7 +28,7 @@
 | [Student-Grading-System](https://github.com/Ali04-Hassan/Student-Grading-System) | GPA calculation and record analysis with an HTML dashboard | C++ · HTML · JavaScript |
 | [PIA-Online-Reservation-System-Project](https://github.com/Ali04-Hassan/PIA-Online-Reservation-System-Project) | Flight booking concept with authentication | Python |
 
-<p align="center"><img src="./assets/certificates.svg?v=3" alt="Certifications" width="100%"/></p>
+<p align="center"><img src="./assets/certificates.svg?v=4" alt="Certifications" width="100%"/></p>
 
 ## 📜 Verify My Certifications
 
@@ -42,9 +42,25 @@
 | 6 | **Build AI Agents & Secure API Integrations with n8n** | LearnKartS via Coursera | 13 Nov 2026 | [Verify](https://www.coursera.org/account/accomplishments/records/45O69WVM35YX) |
 | 7 | **Excel and Copilot Fundamentals** | Microsoft via Coursera | n/a | [Verify](https://coursera.org/verify/R6XNNLZ18AIS) |
 
-<p align="center"><img src="./assets/id-dashboard.svg?v=3" alt="Builder stats" width="100%"/></p>
+<p align="center"><img src="./assets/id-dashboard.svg?v=4" alt="Builder stats" width="100%"/></p>
 
-<p align="center"><img src="./assets/connect.svg?v=3" alt="Connect" width="100%"/></p>
+<p align="center"><img src="./assets/connect.svg?v=4" alt="Connect" width="100%"/></p>
+
+<p align="center">
+  <a href="https://www.alihassan-builds.me/"><img src="./assets/link-portfolio.svg?v=4" alt="Portfolio" width="49%"/></a>
+  <a href="https://www.linkedin.com/in/ali-hassan-6814803a8/"><img src="./assets/link-linkedin.svg?v=4" alt="LinkedIn" width="49%"/></a>
+</p>
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~017006c6eba7d6cdbc"><img src="./assets/link-upwork.svg?v=4" alt="Upwork" width="49%"/></a>
+  <a href="https://www.fiverr.com/ali_flow_labs"><img src="./assets/link-fiverr.svg?v=4" alt="Fiverr" width="49%"/></a>
+</p>
+
+<p align="center">
+  <a href="https://devconnectplatform.com/u/aliram3971?ref=badge"><img src="./assets/link-devconnect.svg?v=4" alt="DevConnect" width="49%"/></a>
+  <a href="mailto:haiderali796959@gmail.com"><img src="./assets/link-email.svg?v=4" alt="Email" width="49%"/></a>
+</p>
+
 
 <p align="center">
   <a href="https://www.alihassan-builds.me/"><img src="https://img.shields.io/badge/Portfolio-247bff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -58,4 +74,5 @@
 <p align="center"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ali04-Hassan&theme=radical" alt="GitHub streak" /></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Ali04-Hassan/Ali04-Hassan/output/github-user-contribution-grid-snake-dark.svg" alt="Contribution snake" /></p>
+
 
