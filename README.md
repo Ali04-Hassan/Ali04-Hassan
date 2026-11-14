@@ -9,18 +9,6 @@
 <p align="center"><img src="./assets/stack.svg?v=4" alt="Tech stack" width="100%"/></p>
 
 
-## 📜 Verify My Certifications
-
-| # | Certification | Issuer | Issued | Verify |
-|---|---|---|---|---|
-| 1 | **ACT AI National Training Programme (Cycle 1)**: AI Foundations, Generative AI, Agentic AI, AI Tools & Productivity, Freelancing with AI | Prime Minister's Youth Programme, HEC & NAVTTC | 29 Jul 2026 | [Verify portal](http://actai.aiskillbridge.pk/verify) · Cert. No. `ACTAI-C1-2026-01281-4RHC` |
-| 2 | **Foundations of AI for Software Development** (AI Certified by GitKraken) | GitKraken Learn | 09 Nov 2026 | [Verify](https://learn.gitkraken.com/certificates/utlalgprzk) |
-| 3 | **AI Fundamentals** | Google via Coursera | 15 Oct 2026 | [Verify](https://www.coursera.org/account/accomplishments/records/G1HVKMS0O579) |
-| 4 | **Workflow Automation with n8n: Logic, Data & Error Handling** | LearnKartS via Coursera | 03 Aug 2026 | [Verify](https://www.coursera.org/account/accomplishments/records/U8ULGRI35M7M) |
-| 5 | **Integrate AI Models in n8n: Prompt Engineering & Outputs** | LearnKartS via Coursera | 13 Nov 2026 | [Verify](https://www.coursera.org/account/accomplishments/records/QS497R9V8XOO) |
-| 6 | **Build AI Agents & Secure API Integrations with n8n** | LearnKartS via Coursera | 13 Nov 2026 | [Verify](https://www.coursera.org/account/accomplishments/records/45O69WVM35YX) |
-| 7 | **Excel and Copilot Fundamentals** | Microsoft via Coursera | n/a | [Verify](https://coursera.org/verify/R6XNNLZ18AIS) |
-
 <p align="center"><img src="./assets/id-dashboard.svg?v=4" alt="Builder stats" width="100%"/></p>
 
 <p align="center"><img src="./assets/connect.svg?v=4" alt="Connect" width="100%"/></p>
