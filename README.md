@@ -29,15 +29,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://www.alihassan-builds.me/"><img src="https://img.shields.io/badge/Portfolio-247bff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ali-hassan-6814803a8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.upwork.com/freelancers/~017006c6eba7d6cdbc"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-  <a href="https://www.fiverr.com/ali_flow_labs"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
-  <a href="https://devconnectplatform.com/u/aliram3971?ref=badge"><img src="https://img.shields.io/badge/DevConnect-000000?style=for-the-badge" /></a>
-  <a href="mailto:haiderali796959@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 <p align="center"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ali04-Hassan&theme=radical" alt="GitHub streak" /></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Ali04-Hassan/Ali04-Hassan/output/github-user-contribution-grid-snake-dark.svg" alt="Contribution snake" /></p>
