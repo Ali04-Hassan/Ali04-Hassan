@@ -8,17 +8,6 @@
 
 <p align="center"><img src="./assets/stack.svg?v=4" alt="Tech stack" width="100%"/></p>
 
-## 📂 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [ai-automation-portfolio](https://github.com/Ali04-Hassan/ai-automation-portfolio) | n8n workflows, voice agents, RAG pipelines, full-stack integrations | TypeScript · React · Vercel |
-| [Ai-automation-and-agents](https://github.com/Ali04-Hassan/Ai-automation-and-agents) | AI agents, n8n workflows, Python scripts for lead qualification | n8n · Python · OpenAI |
-| [EduCore](https://github.com/Ali04-Hassan/EduCore) | Academic platform for resources, student portals, backend data flows | Next.js · Supabase · Tailwind |
-| [Student-Grading-System](https://github.com/Ali04-Hassan/Student-Grading-System) | GPA calculation and record analysis with an HTML dashboard | C++ · HTML · JavaScript |
-| [PIA-Online-Reservation-System-Project](https://github.com/Ali04-Hassan/PIA-Online-Reservation-System-Project) | Flight booking concept with authentication | Python |
-
-<p align="center"><img src="./assets/certificates.svg?v=4" alt="Certifications" width="100%"/></p>
 
 ## 📜 Verify My Certifications
 
