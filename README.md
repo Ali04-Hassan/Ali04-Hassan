@@ -1,12 +1,6 @@
 <p align="center"><img src="./assets/hero.svg?v=4" alt="Ali Hassan - AI Automation Engineer" width="100%"/></p>
 
-<p align="center">
 
-</p>
-
-<p align="center">
-  <a href="https://devconnectplatform.com/u/aliram3971?ref=badge"><img src="https://devconnectplatform.com/api/badge/aliram3971" alt="DevConnect Profile" /></a>
-</p>
 
 <p align="center"><img src="./assets/about-life.svg?v=4" alt="About" width="100%"/></p>
 
