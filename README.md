@@ -28,10 +28,6 @@
 </p>
 
 
-<p align="center"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ali04-Hassan&theme=radical" alt="GitHub streak" /></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/Ali04-Hassan/Ali04-Hassan/output/github-user-contribution-grid-snake-dark.svg" alt="Contribution snake" /></p>
-
 ## 📜 Verify My Certifications
 
 | # | Certification | Issuer | Issued | Verify |
@@ -44,4 +40,7 @@
 | 6 | **Build AI Agents & Secure API Integrations with n8n** | LearnKartS via Coursera | 13 Nov 2026 | [Verify](https://www.coursera.org/account/accomplishments/records/45O69WVM35YX) |
 | 7 | **Excel and Copilot Fundamentals** | Microsoft via Coursera | n/a | [Verify](https://coursera.org/verify/R6XNNLZ18AIS) |
 
+<p align="center"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ali04-Hassan&theme=radical" alt="GitHub streak" /></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Ali04-Hassan/Ali04-Hassan/output/github-user-contribution-grid-snake-dark.svg" alt="Contribution snake" /></p>
 
