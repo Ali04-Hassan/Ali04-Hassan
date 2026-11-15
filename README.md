@@ -4,33 +4,11 @@
 
 <p align="center"><img src="./assets/services.svg?v=4" alt="What I Build" width="100%"/></p>
 
-<p align="center"><img src="./assets/stack.svg?v=4" alt="Tech stack" width="100%"/></p>
+<p align="center"><img src="./assets/id-dashboard.svg?v=5" alt="Builder stats" width="100%"/></p>
 
-## 📂 Featured Projects
+<p align="center"><img src="./assets/stack.svg?v=5" alt="Tech stack" width="100%"/></p>
 
-| Project | What it does | Stack |
-|---|---|---|
-| [ai-automation-portfolio](https://github.com/Ali04-Hassan/ai-automation-portfolio) | n8n workflows, voice agents, RAG pipelines, full-stack integrations | TypeScript · React · Vercel |
-| [Ai-automation-and-agents](https://github.com/Ali04-Hassan/Ai-automation-and-agents) | AI agents, n8n workflows, Python scripts for lead qualification | n8n · Python · OpenAI |
-| [EduCore](https://github.com/Ali04-Hassan/EduCore) | Academic platform for resources, student portals, backend data flows | Next.js · Supabase · Tailwind |
-| [Student-Grading-System](https://github.com/Ali04-Hassan/Student-Grading-System) | GPA calculation and record analysis with an HTML dashboard | C++ · HTML · JavaScript |
-| [PIA-Online-Reservation-System-Project](https://github.com/Ali04-Hassan/PIA-Online-Reservation-System-Project) | Flight booking concept with authentication | Python |
-
-<p align="center"><img src="./assets/certificates.svg?v=4" alt="Certifications" width="100%"/></p>
-
-## 📜 Verify My Certifications
-
-| # | Certification | Issuer | Issued | Verify |
-|---|---|---|---|---|
-| 1 | **ACT AI National Training Programme (Cycle 1)**: AI Foundations, Generative AI, Agentic AI, AI Tools & Productivity, Freelancing with AI | Prime Minister's Youth Programme, HEC & NAVTTC | 29 Jul 2026 | [Verify portal](http://actai.aiskillbridge.pk/verify) · Cert. No. `ACTAI-C1-2026-01281-4RHC` |
-| 2 | **Foundations of AI for Software Development** (AI Certified by GitKraken) | GitKraken Learn | 09 Nov 2026 | [Verify](https://learn.gitkraken.com/certificates/utlalgprzk) |
-| 3 | **AI Fundamentals** | Google via Coursera | 15 Oct 2026 | [Verify](https://www.coursera.org/account/accomplishments/records/G1HVKMS0O579) |
-| 4 | **Workflow Automation with n8n: Logic, Data & Error Handling** | LearnKartS via Coursera | 03 Aug 2026 | [Verify](https://www.coursera.org/account/accomplishments/records/U8ULGRI35M7M) |
-| 5 | **Integrate AI Models in n8n: Prompt Engineering & Outputs** | LearnKartS via Coursera | 13 Nov 2026 | [Verify](https://www.coursera.org/account/accomplishments/records/QS497R9V8XOO) |
-| 6 | **Build AI Agents & Secure API Integrations with n8n** | LearnKartS via Coursera | 13 Nov 2026 | [Verify](https://www.coursera.org/account/accomplishments/records/45O69WVM35YX) |
-| 7 | **Excel and Copilot Fundamentals** | Microsoft via Coursera | n/a | [Verify](https://coursera.org/verify/R6XNNLZ18AIS) |
-
-<p align="center"><img src="./assets/id-dashboard.svg?v=4" alt="Builder stats" width="100%"/></p>
+<p align="center"><img src="./assets/certificates.svg?v=5" alt="Certifications" width="100%"/></p>
 
 <p align="center"><img src="./assets/connect.svg?v=4" alt="Connect" width="100%"/></p>
 
@@ -53,5 +31,17 @@
 <p align="center"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ali04-Hassan&theme=radical" alt="GitHub streak" /></p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Ali04-Hassan/Ali04-Hassan/output/github-user-contribution-grid-snake-dark.svg" alt="Contribution snake" /></p>
+
+## 📜 Verify My Certifications
+
+| # | Certification | Issuer | Issued | Verify |
+|---|---|---|---|---|
+| 1 | **ACT AI National Training Programme (Cycle 1)**: AI Foundations, Generative AI, Agentic AI, AI Tools & Productivity, Freelancing with AI | Prime Minister's Youth Programme, HEC & NAVTTC | 29 Jul 2026 | [Verify portal](http://actai.aiskillbridge.pk/verify) · Cert. No. `ACTAI-C1-2026-01281-4RHC` |
+| 2 | **Foundations of AI for Software Development** (AI Certified by GitKraken) | GitKraken Learn | 09 Nov 2026 | [Verify](https://learn.gitkraken.com/certificates/utlalgprzk) |
+| 3 | **AI Fundamentals** | Google via Coursera | 15 Oct 2026 | [Verify](https://www.coursera.org/account/accomplishments/records/G1HVKMS0O579) |
+| 4 | **Workflow Automation with n8n: Logic, Data & Error Handling** | LearnKartS via Coursera | 03 Aug 2026 | [Verify](https://www.coursera.org/account/accomplishments/records/U8ULGRI35M7M) |
+| 5 | **Integrate AI Models in n8n: Prompt Engineering & Outputs** | LearnKartS via Coursera | 13 Nov 2026 | [Verify](https://www.coursera.org/account/accomplishments/records/QS497R9V8XOO) |
+| 6 | **Build AI Agents & Secure API Integrations with n8n** | LearnKartS via Coursera | 13 Nov 2026 | [Verify](https://www.coursera.org/account/accomplishments/records/45O69WVM35YX) |
+| 7 | **Excel and Copilot Fundamentals** | Microsoft via Coursera | n/a | [Verify](https://coursera.org/verify/R6XNNLZ18AIS) |
 
 
