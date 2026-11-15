@@ -37,7 +37,7 @@
 | 3 | **AI Fundamentals** | Google via Coursera | 15 Oct 2026 | [Verify](https://www.coursera.org/account/accomplishments/records/G1HVKMS0O579) |
 | 4 | **Workflow Automation with n8n: Logic, Data & Error Handling** | LearnKartS via Coursera | 03 Aug 2026 | [Verify](https://www.coursera.org/account/accomplishments/records/U8ULGRI35M7M) |
 | 5 | **Integrate AI Models in n8n: Prompt Engineering & Outputs** | LearnKartS via Coursera | 13 Nov 2026 | [Verify](https://www.coursera.org/account/accomplishments/records/QS497R9V8XOO) |
-| 6 | **Build AI Agents & Secure API Integrations with n8n** | LearnKartS via Coursera | 13 Nov 2026 | [Verify](https://www.coursera.org/account/accomplishments/records/45O69WVM35YX) |
+| 6 | **Build AI Agents & Secure API Integrations with n8n** | LearnKartS via Coursera | 29 Nov 2026 | [Verify](https://www.coursera.org/account/accomplishments/records/45O69WVM35YX) |
 | 7 | **Excel and Copilot Fundamentals** | Microsoft via Coursera | n/a | [Verify](https://coursera.org/verify/R6XNNLZ18AIS) |
 
 <p align="center"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ali04-Hassan&theme=radical" alt="GitHub streak" /></p>
