@@ -28,7 +28,7 @@
 </p>
 
 
-## 📜 Verify My Certifications
+## 📜 Verify My Certification & Credentials
 
 | # | Certification | Issuer | Issued | Verify |
 |---|---|---|---|---|
